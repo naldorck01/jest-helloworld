@@ -1,0 +1,23 @@
+{
+  "name": "jest-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naldorck01/jest-helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naldorck01/jest-helloworld/issues"
+  },
+  "homepage": "https://github.com/naldorck01/jest-helloworld#readme"
+}
