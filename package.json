@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,9 +15,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/naldorck01/jest-helloworld/issues"
   },
-  "homepage": "https://github.com/naldorck01/jest-helloworld#readme"
+  "homepage": "https://github.com/naldorck01/jest-helloworld#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "@types/jest": "^26.0.20",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
 }
